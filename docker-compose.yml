@@ -15,7 +15,7 @@ services:
   #     - 27017:27017
 
   # postgres-db:
-  #   image: postgres:15.3
+  #   image: postgres:16.1
   #   restart: always
   #   environment:
   #     POSTGRES_USER: postgres
